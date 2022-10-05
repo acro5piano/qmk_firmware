@@ -6,6 +6,8 @@ make crkbd:my_keymaps
 make crkbd:my_keymaps:avrdude
 ```
 
+warning: **Do not use sudo!**
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
